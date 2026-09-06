@@ -1,0 +1,57 @@
+{
+    "model": "C:\\Users\\Srinath M\\Documents\\LokeshProgramming\\Projects\\cn-ml-traffic-classification\\models\\xgboost_multiclass_gpu.json",
+    "number_of_features": 61,
+    "importance_method": "gain",
+    "top_10_features": [
+        {
+            "rank": 1,
+            "feature": "act_data_pkt_fwd",
+            "gain_percentage": 10.325128602827634
+        },
+        {
+            "rank": 2,
+            "feature": "Bwd Packet Length Std",
+            "gain_percentage": 8.400606217899902
+        },
+        {
+            "rank": 3,
+            "feature": "PSH Flag Count",
+            "gain_percentage": 6.733051951930899
+        },
+        {
+            "rank": 4,
+            "feature": "Bwd Packet Length Mean",
+            "gain_percentage": 6.4949402274514165
+        },
+        {
+            "rank": 5,
+            "feature": "Bwd Packet Length Min",
+            "gain_percentage": 6.400826302747915
+        },
+        {
+            "rank": 6,
+            "feature": "Total Backward Packets",
+            "gain_percentage": 5.748820843318714
+        },
+        {
+            "rank": 7,
+            "feature": "Total Length of Bwd Packets",
+            "gain_percentage": 5.1495591626408
+        },
+        {
+            "rank": 8,
+            "feature": "Idle Mean",
+            "gain_percentage": 4.597919929955528
+        },
+        {
+            "rank": 9,
+            "feature": "SYN Flag Count",
+            "gain_percentage": 4.1533237268980665
+        },
+        {
+            "rank": 10,
+            "feature": "Fwd Packet Length Min",
+            "gain_percentage": 3.3890897293592603
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+Class,Actual_Count,Predicted_Count,Difference,Absolute_Difference
+BENIGN,413443,411638,-1805,1805
+PortScan,158804,158785,-19,19
+DDoS,128006,127996,-10,10
+Bot,1956,3028,1072,1072
+DoS GoldenEye,0,4,4,4
+DoS Slowhttptest,0,10,10,10
+DoS Hulk,0,579,579,579
+DoS slowloris,0,1,1,1
+SSH-Patator,0,74,74,74
+Web Attack � Brute Force,0,12,12,12
+Web Attack � XSS,0,82,82,82

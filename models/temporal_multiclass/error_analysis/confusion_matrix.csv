@@ -1,0 +1,12 @@
+Actual,BENIGN,Bot,DDoS,DoS GoldenEye,DoS Hulk,DoS Slowhttptest,DoS slowloris,PortScan,SSH-Patator,Web Attack � Brute Force,Web Attack � XSS
+BENIGN,411477,1216,5,4,568,10,1,1,74,6,81
+Bot,144,1812,0,0,0,0,0,0,0,0,0
+DDoS,14,0,127991,0,1,0,0,0,0,0,0
+DoS GoldenEye,0,0,0,0,0,0,0,0,0,0,0
+DoS Hulk,0,0,0,0,0,0,0,0,0,0,0
+DoS Slowhttptest,0,0,0,0,0,0,0,0,0,0,0
+DoS slowloris,0,0,0,0,0,0,0,0,0,0,0
+PortScan,3,0,0,0,10,0,0,158784,0,6,1
+SSH-Patator,0,0,0,0,0,0,0,0,0,0,0
+Web Attack � Brute Force,0,0,0,0,0,0,0,0,0,0,0
+Web Attack � XSS,0,0,0,0,0,0,0,0,0,0,0

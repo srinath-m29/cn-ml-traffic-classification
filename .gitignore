@@ -1,0 +1,43 @@
+# Python environment and caches
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Frontend dependencies and build outputs
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/dist-ssr/
+frontend/.cache/
+
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Large datasets (>100MB / not intended for git repository)
+dataset/raw/
+dataset/processed/*.csv
+
+# Oversized binary model files (>100MB GitHub limit)
+*.joblib
+models/random_forest_binary.joblib

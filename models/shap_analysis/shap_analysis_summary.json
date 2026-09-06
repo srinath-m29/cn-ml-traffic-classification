@@ -1,0 +1,61 @@
+{
+    "model": "C:\\Users\\Srinath M\\Documents\\LokeshProgramming\\Projects\\cn-ml-traffic-classification\\models\\xgboost_multiclass_gpu.json",
+    "dataset": "C:\\Users\\Srinath M\\Documents\\LokeshProgramming\\Projects\\cn-ml-traffic-classification\\dataset\\processed\\training_dataset.csv",
+    "shap_version": "0.52.0",
+    "samples_analyzed": 5000,
+    "features_analyzed": 61,
+    "number_of_classes": 15,
+    "calculation_time_seconds": 16.97861385345459,
+    "top_features": [
+        {
+            "rank": 1,
+            "feature": "Destination Port",
+            "importance_percentage": 13.620651245117188
+        },
+        {
+            "rank": 2,
+            "feature": "min_seg_size_forward",
+            "importance_percentage": 7.787545680999756
+        },
+        {
+            "rank": 3,
+            "feature": "Flow Duration",
+            "importance_percentage": 5.653873920440674
+        },
+        {
+            "rank": 4,
+            "feature": "Flow IAT Min",
+            "importance_percentage": 5.469330787658691
+        },
+        {
+            "rank": 5,
+            "feature": "Bwd Packets/s",
+            "importance_percentage": 5.416647911071777
+        },
+        {
+            "rank": 6,
+            "feature": "Flow IAT Mean",
+            "importance_percentage": 4.000252723693848
+        },
+        {
+            "rank": 7,
+            "feature": "Fwd IAT Min",
+            "importance_percentage": 3.9671599864959717
+        },
+        {
+            "rank": 8,
+            "feature": "Fwd Packets/s",
+            "importance_percentage": 3.1600701808929443
+        },
+        {
+            "rank": 9,
+            "feature": "Flow Bytes/s",
+            "importance_percentage": 3.0178911685943604
+        },
+        {
+            "rank": 10,
+            "feature": "Bwd Packet Length Mean",
+            "importance_percentage": 2.8183562755584717
+        }
+    ]
+}

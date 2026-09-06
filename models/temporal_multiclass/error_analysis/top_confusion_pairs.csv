@@ -1,0 +1,18 @@
+Actual,Predicted,Count
+BENIGN,Bot,1216
+BENIGN,DoS Hulk,568
+Bot,BENIGN,144
+BENIGN,Web Attack � XSS,81
+BENIGN,SSH-Patator,74
+DDoS,BENIGN,14
+PortScan,DoS Hulk,10
+BENIGN,DoS Slowhttptest,10
+BENIGN,Web Attack � Brute Force,6
+PortScan,Web Attack � Brute Force,6
+BENIGN,DDoS,5
+BENIGN,DoS GoldenEye,4
+PortScan,BENIGN,3
+BENIGN,DoS slowloris,1
+BENIGN,PortScan,1
+DDoS,DoS Hulk,1
+PortScan,Web Attack � XSS,1

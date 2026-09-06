@@ -1,0 +1,17 @@
+{
+    "evaluation_type": "unseen_friday_multiclass",
+    "model": "C:\\Users\\Srinath M\\Documents\\LokeshProgramming\\Projects\\cn-ml-traffic-classification\\models\\xgboost_multiclass_gpu.json",
+    "features": 61,
+    "classes": 15,
+    "samples": 702209,
+    "accuracy": 0.9969453538761252,
+    "macro_f1": 0.3385822390435838,
+    "weighted_f1": 0.9976928983146721,
+    "prediction_time_seconds": 11.521400213241577,
+    "class_distribution": {
+        "BENIGN": 413443,
+        "Bot": 1956,
+        "DDoS": 128006,
+        "PortScan": 158804
+    }
+}

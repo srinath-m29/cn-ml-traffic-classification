@@ -1,0 +1,29 @@
+Feature,KS Statistic,P-Value,Interpretation
+Fwd Packet Length Mean,0.26728,0.0,Moderate shift
+Total Length of Fwd Packets,0.23147,0.0,Moderate shift
+PSH Flag Count,0.19201000000000001,0.0,Small shift
+Fwd IAT Mean,0.16935999999999998,0.0,Small shift
+Total Fwd Packets,0.168,0.0,Small shift
+Flow Bytes/s,0.1660500000000001,0.0,Small shift
+Average Packet Size,0.16316000000000003,0.0,Small shift
+Max Packet Length,0.15857,0.0,Small shift
+Destination Port,0.15680000000000005,0.0,Small shift
+Bwd Packets/s,0.15623999999999993,0.0,Small shift
+Packet Length Mean,0.15414,0.0,Small shift
+Packet Length Std,0.15373000000000003,0.0,Small shift
+Bwd Packet Length Mean,0.15133000000000002,0.0,Small shift
+Total Length of Bwd Packets,0.14292,0.0,Small shift
+Down/Up Ratio,0.10966999999999999,0.0,Small shift
+Flow Duration,0.10694999999999999,0.0,Small shift
+Flow IAT Max,0.10602000000000003,0.0,Small shift
+Bwd IAT Mean,0.09982000000000002,0.0,Very small shift
+Total Backward Packets,0.09561999999999998,0.0,Very small shift
+Flow Packets/s,0.08814,0.0,Very small shift
+Fwd Packets/s,0.08379000000000003,7.81029830547551e-306,Very small shift
+Flow IAT Mean,0.07516,4.3386032589745326e-246,Very small shift
+Flow IAT Std,0.06838000000000005,1.0048541814354977e-203,Very small shift
+Bwd Packet Length Std,0.06414999999999993,2.4979643895709773e-179,Very small shift
+ACK Flag Count,0.041119999999999934,6.744569271119895e-74,Very small shift
+FIN Flag Count,0.037270000000000025,8.832155511824279e-61,Very small shift
+SYN Flag Count,0.01678999999999997,1.1285380295175015e-12,Very small shift
+RST Flag Count,0.0,1.0,Very small shift

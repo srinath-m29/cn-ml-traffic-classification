@@ -1,0 +1,2146 @@
+Actual_ID,Actual_Label,Predicted_ID,Predicted_Label,Correct
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,2,DDoS,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,2,DDoS,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,3,DoS GoldenEye,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,2,DDoS,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,11,SSH-Patator,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,11,SSH-Patator,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+1,Bot,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,10,PortScan,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,12,Web Attack � Brute Force,False
+0,BENIGN,12,Web Attack � Brute Force,False
+0,BENIGN,12,Web Attack � Brute Force,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+1,Bot,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+1,Bot,0,BENIGN,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,12,Web Attack � Brute Force,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+1,Bot,0,BENIGN,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+1,Bot,0,BENIGN,False
+1,Bot,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+2,DDoS,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,6,DoS slowloris,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+2,DDoS,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+2,DDoS,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+2,DDoS,0,BENIGN,False
+2,DDoS,0,BENIGN,False
+2,DDoS,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+2,DDoS,0,BENIGN,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+2,DDoS,0,BENIGN,False
+0,BENIGN,2,DDoS,False
+0,BENIGN,1,Bot,False
+2,DDoS,0,BENIGN,False
+2,DDoS,0,BENIGN,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+2,DDoS,0,BENIGN,False
+2,DDoS,0,BENIGN,False
+2,DDoS,0,BENIGN,False
+2,DDoS,0,BENIGN,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+2,DDoS,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,5,DoS Slowhttptest,False
+0,BENIGN,5,DoS Slowhttptest,False
+0,BENIGN,5,DoS Slowhttptest,False
+0,BENIGN,5,DoS Slowhttptest,False
+0,BENIGN,5,DoS Slowhttptest,False
+0,BENIGN,5,DoS Slowhttptest,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+10,PortScan,12,Web Attack � Brute Force,False
+10,PortScan,12,Web Attack � Brute Force,False
+10,PortScan,12,Web Attack � Brute Force,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,5,DoS Slowhttptest,False
+0,BENIGN,5,DoS Slowhttptest,False
+0,BENIGN,5,DoS Slowhttptest,False
+0,BENIGN,5,DoS Slowhttptest,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,3,DoS GoldenEye,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+10,PortScan,4,DoS Hulk,False
+10,PortScan,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,3,DoS GoldenEye,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,12,Web Attack � Brute Force,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+10,PortScan,0,BENIGN,False
+10,PortScan,12,Web Attack � Brute Force,False
+10,PortScan,0,BENIGN,False
+10,PortScan,12,Web Attack � Brute Force,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,12,Web Attack � Brute Force,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+10,PortScan,14,Web Attack � XSS,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+10,PortScan,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+10,PortScan,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+10,PortScan,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+10,PortScan,4,DoS Hulk,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,11,SSH-Patator,False
+0,BENIGN,4,DoS Hulk,False
+10,PortScan,4,DoS Hulk,False
+10,PortScan,12,Web Attack � Brute Force,False
+10,PortScan,0,BENIGN,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+10,PortScan,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,11,SSH-Patator,False
+10,PortScan,4,DoS Hulk,False
+10,PortScan,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,2,DDoS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,3,DoS GoldenEye,False
+0,BENIGN,1,Bot,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,14,Web Attack � XSS,False
+0,BENIGN,4,DoS Hulk,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False
+0,BENIGN,1,Bot,False

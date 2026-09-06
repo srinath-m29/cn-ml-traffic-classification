@@ -1,0 +1,15 @@
+{
+    "total_samples": 702209,
+    "correct_predictions": 700064,
+    "incorrect_predictions": 2145,
+    "error_rate": 0.003054646123874801,
+    "accuracy": 0.9969453538761252,
+    "macro_precision": 0.3270889375769293,
+    "macro_recall": 0.3564892777023071,
+    "macro_f1": 0.3385822390435838,
+    "weighted_f1": 0.9976928983146721,
+    "actual_classes": 4,
+    "predicted_classes": 11,
+    "total_model_classes": 15,
+    "number_of_confusion_pairs": 17
+}

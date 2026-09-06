@@ -1,0 +1,12 @@
+Class,Predicted_Count
+BENIGN,411638
+PortScan,158785
+DDoS,127996
+Bot,3028
+DoS Hulk,579
+Web Attack � XSS,82
+SSH-Patator,74
+Web Attack � Brute Force,12
+DoS Slowhttptest,10
+DoS GoldenEye,4
+DoS slowloris,1

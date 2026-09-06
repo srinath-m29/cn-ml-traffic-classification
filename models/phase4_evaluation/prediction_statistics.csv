@@ -1,0 +1,16 @@
+class,category,predicted_count,percentage_of_traffic
+BENIGN,Benign,25007,50.01
+PortScan,Attack,6014,12.03
+DoS Hulk,Attack,5088,10.18
+DDoS,Attack,3000,6.0
+DoS GoldenEye,Attack,2295,4.59
+Bot,Attack,1845,3.69
+FTP-Patator,Attack,1834,3.67
+Web Attack - Brute Force,Attack,1491,2.98
+SSH-Patator,Attack,1372,2.74
+DoS slowloris,Attack,920,1.84
+Web Attack - XSS,Attack,624,1.25
+DoS Slowhttptest,Attack,457,0.91
+Infiltration,Attack,33,0.07
+Web Attack - Sql Injection,Attack,13,0.03
+Heartbleed,Attack,7,0.01

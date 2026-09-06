@@ -1,0 +1,205 @@
+{
+  "evaluation_timestamp": "2026-09-05 22:14:48",
+  "model_type": "XGBoost Multiclass Classifier (hist)",
+  "features_evaluated": 61,
+  "classes_evaluated": 15,
+  "total_test_samples": 50000,
+  "performance_scaling": [
+    {
+      "batch_size": 100,
+      "csv_parsing_sec": 0.0017,
+      "validation_sec": 0.00184,
+      "model_prediction_sec": 0.0182,
+      "model_throughput_flows_sec": 5506.9,
+      "api_http_sec": 0.0407,
+      "api_throughput_flows_sec": 2454.7,
+      "api_status": "Success",
+      "total_processing_sec": 0.0217,
+      "overall_throughput_flows_sec": 4613.4,
+      "rss_memory_mb": 329.49,
+      "rss_memory_delta_mb": 2.13
+    },
+    {
+      "batch_size": 1000,
+      "csv_parsing_sec": 0.0089,
+      "validation_sec": 0.00111,
+      "model_prediction_sec": 0.0399,
+      "model_throughput_flows_sec": 25051.3,
+      "api_http_sec": 0.0925,
+      "api_throughput_flows_sec": 10807.2,
+      "api_status": "Success",
+      "total_processing_sec": 0.0499,
+      "overall_throughput_flows_sec": 20026.0,
+      "rss_memory_mb": 336.82,
+      "rss_memory_delta_mb": 1.26
+    },
+    {
+      "batch_size": 5000,
+      "csv_parsing_sec": 0.0295,
+      "validation_sec": 0.00108,
+      "model_prediction_sec": 0.1377,
+      "model_throughput_flows_sec": 36322.9,
+      "api_http_sec": 0.3393,
+      "api_throughput_flows_sec": 14734.3,
+      "api_status": "Success",
+      "total_processing_sec": 0.1682,
+      "overall_throughput_flows_sec": 29726.1,
+      "rss_memory_mb": 358.63,
+      "rss_memory_delta_mb": 8.25
+    },
+    {
+      "batch_size": 10000,
+      "csv_parsing_sec": 0.0496,
+      "validation_sec": 0.00114,
+      "model_prediction_sec": 0.3053,
+      "model_throughput_flows_sec": 32753.1,
+      "api_http_sec": 0.69,
+      "api_throughput_flows_sec": 14493.1,
+      "api_status": "Success",
+      "total_processing_sec": 0.3561,
+      "overall_throughput_flows_sec": 28082.3,
+      "rss_memory_mb": 400.46,
+      "rss_memory_delta_mb": 15.25
+    },
+    {
+      "batch_size": 25000,
+      "csv_parsing_sec": 0.1185,
+      "validation_sec": 0.00161,
+      "model_prediction_sec": 0.651,
+      "model_throughput_flows_sec": 38402.0,
+      "api_http_sec": 1.6072,
+      "api_throughput_flows_sec": 15554.5,
+      "api_status": "Success",
+      "total_processing_sec": 0.7711,
+      "overall_throughput_flows_sec": 32420.5,
+      "rss_memory_mb": 480.75,
+      "rss_memory_delta_mb": 35.79
+    },
+    {
+      "batch_size": 50000,
+      "csv_parsing_sec": 0.2265,
+      "validation_sec": 0.00234,
+      "model_prediction_sec": 1.2632,
+      "model_throughput_flows_sec": 39581.9,
+      "api_http_sec": "N/A",
+      "api_throughput_flows_sec": "N/A",
+      "api_status": "Skipped",
+      "total_processing_sec": 1.4921,
+      "overall_throughput_flows_sec": 33510.6,
+      "rss_memory_mb": 666.92,
+      "rss_memory_delta_mb": 66.93
+    }
+  ],
+  "prediction_statistics": {
+    "total_flows": 50000,
+    "benign_flows": 25007,
+    "attack_flows": 24993,
+    "attack_percentage": 49.99,
+    "confidence_metrics": {
+      "mean": 0.9919,
+      "median": 1.0,
+      "min": 0.37,
+      "max": 1.0,
+      "std": 0.0462
+    },
+    "class_distribution": [
+      {
+        "class": "BENIGN",
+        "count": 25007,
+        "percentage": 50.01,
+        "is_attack": false
+      },
+      {
+        "class": "PortScan",
+        "count": 6014,
+        "percentage": 12.03,
+        "is_attack": true
+      },
+      {
+        "class": "DoS Hulk",
+        "count": 5088,
+        "percentage": 10.18,
+        "is_attack": true
+      },
+      {
+        "class": "DDoS",
+        "count": 3000,
+        "percentage": 6.0,
+        "is_attack": true
+      },
+      {
+        "class": "DoS GoldenEye",
+        "count": 2295,
+        "percentage": 4.59,
+        "is_attack": true
+      },
+      {
+        "class": "Bot",
+        "count": 1845,
+        "percentage": 3.69,
+        "is_attack": true
+      },
+      {
+        "class": "FTP-Patator",
+        "count": 1834,
+        "percentage": 3.67,
+        "is_attack": true
+      },
+      {
+        "class": "Web Attack - Brute Force",
+        "count": 1491,
+        "percentage": 2.98,
+        "is_attack": true
+      },
+      {
+        "class": "SSH-Patator",
+        "count": 1372,
+        "percentage": 2.74,
+        "is_attack": true
+      },
+      {
+        "class": "DoS slowloris",
+        "count": 920,
+        "percentage": 1.84,
+        "is_attack": true
+      },
+      {
+        "class": "Web Attack - XSS",
+        "count": 624,
+        "percentage": 1.25,
+        "is_attack": true
+      },
+      {
+        "class": "DoS Slowhttptest",
+        "count": 457,
+        "percentage": 0.91,
+        "is_attack": true
+      },
+      {
+        "class": "Infiltration",
+        "count": 33,
+        "percentage": 0.07,
+        "is_attack": true
+      },
+      {
+        "class": "Web Attack - Sql Injection",
+        "count": 13,
+        "percentage": 0.03,
+        "is_attack": true
+      },
+      {
+        "class": "Heartbleed",
+        "count": 7,
+        "percentage": 0.01,
+        "is_attack": true
+      }
+    ]
+  },
+  "ground_truth_metrics": {
+    "accuracy": 0.9912,
+    "macro_f1": 0.9636,
+    "weighted_f1": 0.9911,
+    "macro_precision": 0.9837,
+    "macro_recall": 0.9499
+  }
+}
