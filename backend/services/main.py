@@ -8,6 +8,7 @@ prediction, health monitoring, and model metadata inspection.
 from __future__ import annotations
 
 import logging
+import os
 from typing import List
 
 from fastapi import FastAPI, HTTPException, Request, status
@@ -46,13 +47,20 @@ app = FastAPI(
     openapi_url="/openapi.json",
 )
 
-# CORS Configuration for frontend development
-ALLOWED_ORIGINS: List[str] = [
+# CORS defaults support local development. Deployments can provide a comma-separated
+# CORS_ORIGINS environment variable without changing the application code.
+DEFAULT_ALLOWED_ORIGINS: List[str] = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
     "http://localhost:3000",
     "http://127.0.0.1:3000",
 ]
+configured_origins = os.getenv("CORS_ORIGINS")
+ALLOWED_ORIGINS = (
+    [origin.strip() for origin in configured_origins.split(",") if origin.strip()]
+    if configured_origins
+    else DEFAULT_ALLOWED_ORIGINS
+)
 
 app.add_middleware(
     CORSMiddleware,
