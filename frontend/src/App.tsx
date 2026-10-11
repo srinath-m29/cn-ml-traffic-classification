@@ -154,7 +154,7 @@ function App() {
         <div className="workspace-label">WORKSPACE</div>
         <nav className="side-nav" aria-label="Main navigation">
           {NAV_ITEMS.map(({ label, icon: Icon }) => (
-            <button key={label} type="button" className={`nav-item ${page === label ? 'selected' : ''}`} onClick={() => { setPage(label); setError(''); }}>
+            <button key={label} type="button" aria-label={label} className={`nav-item ${page === label ? 'selected' : ''}`} onClick={() => { setPage(label); setError(''); }}>
               <Icon size={17} /><span>{label}</span>{page === label && <span className="nav-indicator" />}
             </button>
           ))}
