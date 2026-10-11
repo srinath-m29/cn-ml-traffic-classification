@@ -77,7 +77,7 @@ async def request_validation_error(
     detail = f"{location}: {message}" if location else message
     logger.info("Rejected request to %s: %s", request.url.path, detail)
     return JSONResponse(
-        status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
+        status_code=status.HTTP_400_BAD_REQUEST,
         content={"detail": detail},
     )
 
@@ -142,6 +142,8 @@ def predict(payload: PredictionRequest) -> PredictionResponse:
 @legacy_api.post("/predict/batch", response_model=BatchPredictionResponse, tags=["prediction"], include_in_schema=False)
 def predict_batch(payload: BatchPredictionRequest) -> BatchPredictionResponse:
     require_model()
+    if not payload.samples:
+        raise ValueError("Batch prediction request must contain at least one sample.")
     results = model_service.predict_batch(payload.samples)
     return BatchPredictionResponse(
         total_samples=len(results),

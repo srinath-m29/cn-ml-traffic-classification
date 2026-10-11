@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import logging
+import math
 from typing import Any, Dict, List, Optional
 
 from backend.ml.predictor import NetworkTrafficPredictor
@@ -46,9 +47,22 @@ class ModelService:
         return self._predictor
 
     def predict_one(self, features: Dict[str, Any]) -> Dict[str, Any]:
+        for k, v in features.items():
+            if isinstance(v, (float, int)):
+                if math.isnan(v):
+                    raise ValueError(f"Feature {k} contains NaN")
+                if math.isinf(v):
+                    raise ValueError(f"Feature {k} contains infinite value")
         return self._get_predictor().predict_one(features)
 
     def predict_batch(self, samples: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        for sample in samples:
+            for k, v in sample.items():
+                if isinstance(v, (float, int)):
+                    if math.isnan(v):
+                        raise ValueError(f"Feature {k} contains NaN")
+                    if math.isinf(v):
+                        raise ValueError(f"Feature {k} contains infinite value")
         return self._get_predictor().predict_batch(samples)
 
     def get_model_info(self) -> Dict[str, Any]:
