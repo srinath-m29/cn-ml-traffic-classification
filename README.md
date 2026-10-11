@@ -30,6 +30,8 @@ python -m uvicorn backend.services.main:app --host 127.0.0.1 --port 8000
 
 The API is available at `http://127.0.0.1:8000`; interactive API documentation is at `http://127.0.0.1:8000/docs`.
 
+`requirements.txt` contains the backend/inference dependencies. It does not install the separate training and explainability tools.
+
 ## Start the frontend
 
 In a second PowerShell terminal:
@@ -67,3 +69,15 @@ CSV uploads are validated in the browser against the feature schema returned by 
 ## GitHub and data files
 
 Raw and processed training datasets are excluded from Git because of their size. The inference model and its small metadata files are tracked so the frontend/backend can serve predictions after dependencies are installed. Keep secrets in environment variables; do not commit `.env` files.
+
+## ML environment on the Acer
+
+When you are ready to continue model training and analysis on the Acer, clone the repository there and create a Python environment for ML work:
+
+```powershell
+py -3.12 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements-ml.txt
+```
+
+`requirements-ml.txt` includes the backend/inference dependencies plus the training, analysis, and explainability packages. Keep raw datasets out of Git; place them in the expected local `dataset/` directories on the Acer.
