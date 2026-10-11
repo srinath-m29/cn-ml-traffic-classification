@@ -59,12 +59,12 @@ Use the frontend host's origin only (scheme and host, with an optional port; no 
 
 | Method | Endpoint | Purpose |
 | --- | --- | --- |
-| `GET` | `/health` | Reports API and model readiness |
-| `GET` | `/model-info` | Returns the expected feature names and class labels |
-| `POST` | `/predict` | Classifies one flow |
-| `POST` | `/predict/batch` | Classifies a list of flows |
+| `GET` | `/api/v1/health` | Reports API and model readiness |
+| `GET` | `/api/v1/model-info` | Returns the expected feature names and class labels |
+| `POST` | `/api/v1/predict` | Classifies one flow |
+| `POST` | `/api/v1/predict/batch` | Classifies a list of flows |
 
-CSV uploads are validated in the browser against the feature schema returned by `/model-info`. Each batch is limited to 10,000 rows and 25 MB; split larger files into smaller batches.
+The backend also keeps the previous unversioned routes available for existing clients and evaluation scripts. CSV uploads are validated in the browser against the feature schema returned by `/api/v1/model-info`. Each batch is limited to 10,000 rows and 25 MB; split larger files into smaller batches.
 
 ## GitHub and data files
 

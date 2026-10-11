@@ -6,6 +6,7 @@
 export interface HealthResponse {
   status: string;
   model_loaded: boolean;
+  model_type?: string | null;
 }
 
 export interface ModelInfoResponse {

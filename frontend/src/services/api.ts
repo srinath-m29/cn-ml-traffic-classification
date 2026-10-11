@@ -15,6 +15,7 @@ import type {
 const API_BASE_URL = (
   import.meta.env.VITE_API_BASE_URL?.trim() || 'http://127.0.0.1:8000'
 ).replace(/\/+$/, '');
+const API_ROOT = `${API_BASE_URL}/api/v1`;
 
 async function handleResponse<T>(response: Response): Promise<T> {
   if (!response.ok) {
@@ -39,7 +40,7 @@ export const apiService = {
    * Checks backend and model status.
    */
   async getHealth(): Promise<HealthResponse> {
-    const response = await fetch(`${API_BASE_URL}/health`, {
+    const response = await fetch(`${API_ROOT}/health`, {
       method: 'GET',
       headers: {
         'Accept': 'application/json',
@@ -52,7 +53,7 @@ export const apiService = {
    * Retrieves model metadata, feature count, and class names.
    */
   async getModelInfo(): Promise<ModelInfoResponse> {
-    const response = await fetch(`${API_BASE_URL}/model-info`, {
+    const response = await fetch(`${API_ROOT}/model-info`, {
       method: 'GET',
       headers: {
         'Accept': 'application/json',
@@ -65,7 +66,7 @@ export const apiService = {
    * Performs single-flow classification given 61 features.
    */
   async predict(request: PredictionRequest): Promise<PredictionResponse> {
-    const response = await fetch(`${API_BASE_URL}/predict`, {
+    const response = await fetch(`${API_ROOT}/predict`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -82,7 +83,7 @@ export const apiService = {
   async predictBatch(
     request: BatchPredictionRequest
   ): Promise<BatchPredictionResponse> {
-    const response = await fetch(`${API_BASE_URL}/predict/batch`, {
+    const response = await fetch(`${API_ROOT}/predict/batch`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
