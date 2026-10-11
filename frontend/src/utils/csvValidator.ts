@@ -6,6 +6,7 @@
 import Papa from 'papaparse';
 
 export const MAX_FILE_SIZE_BYTES = 25 * 1024 * 1024; // 25 MB
+export const MAX_BATCH_SAMPLES = 10_000;
 
 export interface CsvValidationResult {
   isValid: boolean;
@@ -89,6 +90,19 @@ export async function parseAndValidateCsv(
   const rawHeaders = parseResult.meta.fields || [];
   const headerSet = new Set(rawHeaders);
   const expectedSet = new Set(expectedFeatures);
+
+  if (dataRows.length > MAX_BATCH_SAMPLES) {
+    return {
+      isValid: false,
+      errors: [
+        `CSV contains ${dataRows.length.toLocaleString()} rows. Split the file into batches of ${MAX_BATCH_SAMPLES.toLocaleString()} rows or fewer.`,
+      ],
+      warnings: [],
+      rowCount: dataRows.length,
+      parsedSamples: [],
+      headers: rawHeaders,
+    };
+  }
 
   const errors: string[] = [];
   const warnings: string[] = [];

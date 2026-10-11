@@ -9,7 +9,11 @@ import {
   UploadCloud,
 } from 'lucide-react';
 import { generateDemoCsvContent } from '../data/demoCsvData';
-import { parseAndValidateCsv, type CsvValidationResult } from '../utils/csvValidator';
+import {
+  MAX_BATCH_SAMPLES,
+  parseAndValidateCsv,
+  type CsvValidationResult,
+} from '../utils/csvValidator';
 
 interface CsvUploadCardProps {
   expectedFeatures: string[];
@@ -137,7 +141,7 @@ export const CsvUploadCard: React.FC<CsvUploadCardProps> = ({
         <div>
           <h2 className="card-title">Network Traffic CSV Ingestion</h2>
           <p className="card-subtitle">
-            Upload network flow records for batch intrusion classification (Max 25 MB)
+            Upload up to {MAX_BATCH_SAMPLES.toLocaleString()} network flows per batch (Max 25 MB)
           </p>
         </div>
         <div className="card-actions">

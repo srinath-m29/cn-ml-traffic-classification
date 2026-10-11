@@ -10,6 +10,8 @@ from __future__ import annotations
 from typing import Any, Dict, List
 from pydantic import BaseModel, Field
 
+MAX_BATCH_SAMPLES = 10_000
+
 
 class HealthResponse(BaseModel):
     """Response schema for the /health endpoint."""
@@ -38,7 +40,11 @@ class BatchPredictionRequest(BaseModel):
     """Request schema for batch traffic prediction."""
     samples: List[Dict[str, Any]] = Field(
         ...,
-        description="List of dictionaries, each mapping 61 network flow feature names to their numeric values.",
+        max_length=MAX_BATCH_SAMPLES,
+        description=(
+            "Up to 10,000 dictionaries, each mapping 61 network flow feature names "
+            "to their numeric values."
+        ),
     )
 
 

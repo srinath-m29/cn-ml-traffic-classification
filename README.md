@@ -62,7 +62,7 @@ Use the frontend host's origin only (scheme and host, with an optional port; no 
 | `POST` | `/predict` | Classifies one flow |
 | `POST` | `/predict/batch` | Classifies a list of flows |
 
-CSV uploads are validated in the browser against the feature schema returned by `/model-info`. The frontend currently accepts CSV files up to 25 MB.
+CSV uploads are validated in the browser against the feature schema returned by `/model-info`. Each batch is limited to 10,000 rows and 25 MB; split larger files into smaller batches.
 
 ## GitHub and data files
 

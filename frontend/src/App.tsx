@@ -40,40 +40,44 @@ export function App() {
   const [analyzedFileName, setAnalyzedFileName] = useState<string | null>(null);
   const [analysisError, setAnalysisError] = useState<string | null>(null);
 
-  const fetchStatusAndModelInfo = useCallback(async () => {
-    // 1. Fetch Health
-    setHealthLoading(true);
-    setHealthError(null);
-    try {
-      const healthData = await apiService.getHealth();
-      setHealth(healthData);
-      setHealthError(null);
-    } catch (err: unknown) {
-      const msg = err instanceof Error ? err.message : 'Unable to connect to backend service';
-      setHealth(null);
-      setHealthError(msg);
-    } finally {
-      setHealthLoading(false);
-    }
+  const fetchStatusAndModelInfo = useCallback(() => {
+    // Attach state updates to the completed network requests so opening the
+    // dashboard does not trigger synchronous state changes from its effect.
+    void apiService.getHealth()
+      .then((healthData) => {
+        setHealth(healthData);
+        setHealthError(null);
+      })
+      .catch((err: unknown) => {
+        const msg = err instanceof Error ? err.message : 'Unable to connect to backend service';
+        setHealth(null);
+        setHealthError(msg);
+      })
+      .finally(() => setHealthLoading(false));
 
-    // 2. Fetch Model Info
-    setModelInfoLoading(true);
-    setModelInfoError(null);
-    try {
-      const infoData = await apiService.getModelInfo();
-      setModelInfo(infoData);
-      setModelInfoError(null);
-    } catch (err: unknown) {
-      const msg = err instanceof Error ? err.message : 'Unable to load model metadata';
-      setModelInfo(null);
-      setModelInfoError(msg);
-    } finally {
-      setModelInfoLoading(false);
-    }
+    void apiService.getModelInfo()
+      .then((infoData) => {
+        setModelInfo(infoData);
+        setModelInfoError(null);
+      })
+      .catch((err: unknown) => {
+        const msg = err instanceof Error ? err.message : 'Unable to load model metadata';
+        setModelInfo(null);
+        setModelInfoError(msg);
+      })
+      .finally(() => setModelInfoLoading(false));
   }, []);
 
+  const handleRefreshStatus = useCallback(() => {
+    setHealthLoading(true);
+    setHealthError(null);
+    setModelInfoLoading(true);
+    setModelInfoError(null);
+    void fetchStatusAndModelInfo();
+  }, [fetchStatusAndModelInfo]);
+
   useEffect(() => {
-    fetchStatusAndModelInfo();
+    void fetchStatusAndModelInfo();
   }, [fetchStatusAndModelInfo]);
 
   const backendOnline = !healthLoading && !healthError && health?.status === 'healthy';
@@ -139,7 +143,7 @@ export function App() {
             health={health}
             loading={healthLoading}
             error={healthError}
-            onRetry={fetchStatusAndModelInfo}
+            onRetry={handleRefreshStatus}
           />
           <ModelInfoCard
             modelInfo={modelInfo}
